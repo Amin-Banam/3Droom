@@ -1,5 +1,5 @@
 # 3Droom
-![viewfinal](3Droom/img/3D.png)
+![viewfinal](3Droom/3D.png)
 
 - [Demo Project](https://amin-banam.github.io/3Droom/)
 
